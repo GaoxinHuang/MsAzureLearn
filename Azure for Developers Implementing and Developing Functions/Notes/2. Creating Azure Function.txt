@@ -1,0 +1,24 @@
+L Creating your first Azure Function
+一.	创建 Azure Function 在 Azure 上
+1.	Click "Create a resource"
+2.	Type "Function App"
+3.	Click "Create" 
+4.	填信息 
+(1)	App name
+(2)	Subscription -> 
+(3)	Resource Group -> Use existing 或 Create New
+(4)	Application Insights (可以被 disable, 如果是 demo)
+
+二.	创建 function 
+1.	到那个 Azure function
+2.	可以直接点 "+New Function"
+3.	Create a function in portal (也可以在VS上写, 但是教程只是示范) -> More templates 
+(1)	HTTP trigger (http request)
+......
+
+4.	填写 New Function 的信息
+(1)	Name
+
+5.	以上操作就会生成 Http trigger
+(1)	Test -> Request body
+ 

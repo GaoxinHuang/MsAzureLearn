@@ -1,0 +1,36 @@
+一.	Features
+1.	Event-Driven serverless compute platform
+2.	Pay-per-use billing model
+3.	Run code in serverl lanaguage
+4.	Open source
+5.	Run anywhere
+6.	Integrated security
+
+二.	流程
+Azure -> plumbing code(不用管) -> Azure Functions <- Database
+
+三.	Other Azure Services
+1.	Azure WebJobs
+2.	VM
+
+四.	Benefits
+1.	Reduced time to market
+2.	No plumbing Code 
+3.	Focus on the business
+4.	Implements the serverless model
+5.	Consumption model
+
+五.	Hosting Options
+1.	Consumption
+2.	App Services
+3.	Premium plan
+4.	Docker container
+
+六.	Business Cases (作用)
+1.	Timer-based Processing
+2.	Azure servie event processing
+3.	Saas event processing
+4.	Serverless web App architectures 
+5.	Serverless mobile back ends
+6.	Real-time stream processing
+7.	Real-time bot messaging
