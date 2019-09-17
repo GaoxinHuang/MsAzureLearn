@@ -1,0 +1,20 @@
+一. 实际操作 (VS code底下)
+1.  如果用 VS code, 需要安装 extension  -> Azure Functions
+2.  ctrl + shift + P: 显示所有的 command
+3.  选中 Azure Functions: Create Function App
+(需要 login Azure)
+4.  输入 globally unique name
+5.  Runtime -> 选中 .Net
+(则在 Azure 那边就会生成一个 Azure Functions)
+6.  ctrl + shift + P: 显示所有的 command -> 选中 Azure Functions: Create Function
+7.  Create a new project -> 选中哪里放folder位置
+8.  Language -> C#
+9.  Azure 版本 -> Function V2
+10. template -> HttpTrigger
+11. 输入 Function name 
+12. 输入 代码。。。。。
+
+二. 发布部分
+1.  当代码完成后
+2.  ctrl + shift + P: 显示所有的 command -> Azure Functions: Deploy to Function App
+3.  选中那个project 你要deploy 当前这个function
