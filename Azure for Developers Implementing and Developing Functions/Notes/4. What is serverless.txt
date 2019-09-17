@@ -1,0 +1,34 @@
+一. On Premises 
+1.  Questions
+(1) What size of server do I need to buy?
+(2) What if we lose powser?
+(3) What storage type should I use?
+(4) When can I patch my servers?
+(5) Who has access to my servers
+(6) How should I monitor my servers
+(7) which operating system should I use
+(8) What should I do if demand increases
+
+二. Azure IaaS
+(1) How many servers do I need?
+(2) How should I scale?
+(3) How should I do all the network configurations
+(4) Patch
+(5) Monitoring
+(6) what OS?
+(7) What to install on my servers
+
+三. Azure PaaS
+(1) What is the size of my instances
+(2) What scaling configuration
+(3) How many servers do I need?
+(4) What OS?
+
+四. Serverless
+How should I design my application?
+
+五. What is Serverless
+(1) Abstraction of servers
+(2) Event driven
+(3) Instance scale
+(4) Micro-billing
